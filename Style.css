@@ -90,6 +90,14 @@ body{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+
+p {
+    -webkit-text-stroke: 0.4px black;
+}
+
+h2{
+    -webkit-text-stroke: 1px black;
+}
     background-attachment: fixed;
 }
 
