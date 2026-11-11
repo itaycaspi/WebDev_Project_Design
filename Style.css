@@ -98,7 +98,20 @@ p {
 h2{
     -webkit-text-stroke: 1px black;
 }
+
+
     background-attachment: fixed;
 }
 
+p {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #ffffff;
+    text-align: justify;
+    margin: 30px;
+}
+
+p {
+    font-weight: bold;
+}
 
