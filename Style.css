@@ -111,6 +111,26 @@ p {
     margin: 30px;
 }
 
+.myButton{
+    background-color: red;
+    color: white;
+    padding:20px 20px;
+    border:none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+/* Hover effect */ 
+.myButton:hover{
+    background-color: black;
+    color: yellow;
+    transform: scale(1.1);
+}
+
+.container {
+    display: flex;
+}
 p {
     font-weight: bold;
 }
