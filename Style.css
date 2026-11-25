@@ -111,6 +111,18 @@ p {
     margin: 30px;
 }
 
+.navbar{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.navbar a{
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
 .myButton{
     background-color: red;
     color: white;
